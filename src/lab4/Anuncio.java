@@ -16,8 +16,7 @@ public class Anuncio {
 	public int getCodigoPreco() {
 		return codigoPreco;
 	}
-	
-	//arg: variavel nao define bem o que o codigo faz 
+	 
 	public void setCodigoPreco(int novaCompra) {
 		codigoPreco = novaCompra;
 	}

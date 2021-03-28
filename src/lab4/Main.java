@@ -16,7 +16,7 @@ public class Main {
 		cliente.addCompra(compra2);
 		cliente.addCompra(compra3);
 		
-		System.out.println(cliente.historico());
+		System.out.println(cliente.imprimeHistorico());
 		
 		
 
